@@ -1,0 +1,7 @@
+# Copy this file to application-local.yaml and fill in local service credentials.
+# application-local.yaml is ignored by Git and must never be committed.
+spring:
+  datasource:
+    password: ""
+  redis:
+    password: ""

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="CityTrace">
+  <defs>
+    <linearGradient id="citytrace-gradient" x1="8" y1="6" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1687f8"/>
+      <stop offset="1" stop-color="#18b89b"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="url(#citytrace-gradient)"/>
+  <path d="M32 10c-9 0-16 7-16 16 0 12 16 27 16 27s16-15 16-27c0-9-7-16-16-16Z" fill="#fff"/>
+  <circle cx="32" cy="26" r="6" fill="url(#citytrace-gradient)"/>
+  <path d="M10 53c8-6 13-6 21-1 8 5 14 4 23-3" fill="none" stroke="#c8fff4" stroke-width="4" stroke-linecap="round"/>
+</svg>
